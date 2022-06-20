@@ -1,0 +1,209 @@
+Rasa,ogon krótki,ogon puszysty,uszy krótkie,uszy szpiczaste,oczy ciemne,cętki/ plamy,paski,mały wzrost ,średni wzrost,duży wzrost,sierść bdz krótka,sierść krótka,sierść długa,Rodzaj
+akita inu,1,1,0,0,1,0,0,0,0,1,0,1,0,0
+alaskan malamute,0,1,1,0,1,0,0,0,0,1,0,0,1,0
+yorkshire terrier,1,0,0,1,1,0,0,1,0,0,0,0,1,0
+amerykański bobtail,1,1,1,1,0,0,0,0,1,0,0,1,0,1
+amerykański curl,0,1,1,0,0,0,0,0,1,0,0,1,0,1
+amerykański krótkowłosy,0,0,0,0,0,0,1,0,1,0,0,1,0,1
+amerykański curl,0,1,1,0,0,0,0,0,1,0,0,0,1,1
+alpejski gończy krtno,0,0,0,0,1,0,0,0,1,0,0,1,0,0
+amstaf,1,0,0,1,1,0,0,0,1,0,0,1,0,0
+angora turecka,0,1,0,0,0,0,0,0,1,0,0,0,1,1
+brytyjski długowł,0,1,1,0,0,0,0,0,1,0,0,0,1,1
+brytyjski krótkowł,0,0,1,1,0,0,0,0,1,0,0,1,0,1
+kangal,1,0,0,1,1,0,0,0,0,0,0,1,0,0
+appenzeller,1,0,0,1,1,0,0,0,1,0,0,1,0,0
+australian cattle dog,0,0,0,1,1,1,0,0,1,0,0,1,0,0
+australian silky terrier,1,0,1,1,1,0,0,1,0,0,0,0,1,0
+basset bretoński,1,0,0,0,1,0,0,1,0,1,0,1,0,0
+basset hound,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+beagle,0,0,0,0,1,1,0,0,1,0,1,0,0,0
+burmilla,0,0,1,0,0,0,0,1,0,0,0,1,0,1
+cornish rex,0,0,0,0,0,0,0,1,0,0,1,0,0,1
+beagle harrier,0,0,0,0,1,1,0,0,1,0,0,1,0,0
+bearded collie,0,1,1,0,1,0,0,0,1,0,0,0,1,0
+bedlington terrier,1,0,1,0,1,0,0,0,1,0,0,1,0,0
+bernardyn,0,1,0,1,1,1,0,0,0,1,0,1,0,0
+bernardyn,0,1,0,1,1,1,0,0,0,1,0,0,1,0
+bernenski pies pasterski,0,1,0,0,1,0,0,0,0,1,0,0,1,0
+owczarek szwajcarski,0,1,0,1,1,0,0,0,0,1,0,0,1,0
+bichon frise,1,1,1,0,1,0,0,1,0,0,0,0,1,0
+billy,0,0,0,0,1,0,0,0,0,1,1,0,0,0
+cymric,1,1,1,0,0,1,0,0,1,0,0,0,1,1
+devon rex,0,0,0,1,0,0,0,0,1,0,0,1,0,1
+donski sfinks,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+black and tan ,0,0,0,0,1,0,0,0,0,1,0,1,0,0
+bloodhound,0,0,0,0,1,0,0,0,0,1,0,1,0,0
+boer boel,1,0,0,1,1,0,0,0,0,1,0,1,0,0
+bokser,0,0,0,1,1,0,0,0,1,0,1,0,0,0
+bolończyk,1,1,1,0,1,0,0,1,0,0,0,0,1,0
+border collie,0,1,0,1,1,0,0,0,1,0,0,1,0,0
+border collie,0,1,0,1,0,0,0,0,1,0,0,0,1,0
+border terrier,1,0,1,1,1,0,0,1,0,0,0,0,1,0
+boston terrier,1,0,0,1,1,0,0,1,0,0,0,1,0,0
+bouvier des flandres,1,1,0,1,1,0,0,0,0,1,0,0,1,0
+braque dauvergne,0,0,0,0,1,1,0,0,1,0,0,1,0,0
+braque du bourbonnais,0,0,0,0,1,1,0,0,1,0,0,1,0,0
+braque saint germain,0,0,0,0,1,1,0,0,1,0,0,1,0,0
+europejski krotkowło,1,0,1,0,0,0,1,0,1,0,0,1,0,1
+highland straight i fold,0,1,1,1,0,0,0,0,1,0,0,0,1,1
+japoński bobtail,1,0,1,1,0,1,0,0,1,0,0,1,0,1
+japoński bobtail,1,0,1,1,0,1,0,0,1,0,0,0,1,1
+broholmer,0,0,0,1,1,0,0,0,0,1,0,1,0,0
+buhund norweski,1,1,1,1,1,0,0,0,1,0,0,1,0,0
+buldog amerykański,0,0,0,0,1,1,0,0,0,1,0,1,0,0
+buldog angielski,1,0,1,0,1,0,0,0,1,0,0,1,0,0
+buldog francuski,1,0,0,0,1,1,0,1,0,0,1,0,0,0
+bullmastif,0,0,0,0,1,0,0,0,0,1,0,1,0,0
+bulterier,0,0,0,1,1,0,0,0,1,0,1,0,0,0
+cairn terrier,1,0,1,1,1,0,0,1,0,0,0,0,1,0
+canaan dog,0,1,0,1,1,0,0,0,1,0,0,1,0,0
+cane corso,1,0,0,1,1,0,0,0,0,1,0,1,0,0
+sao miguel,1,0,1,0,1,0,1,0,1,0,0,1,0,0
+khao manee,0,1,0,1,0,0,0,0,1,0,0,1,0,1
+korat,0,0,0,0,0,0,0,0,1,0,0,1,0,1
+kot kartuski,0,0,1,1,0,0,0,0,1,0,0,1,0,1
+kot abisyński,0,0,0,1,0,0,0,0,1,0,0,1,0,1
+kot amery- szorstkowło,0,1,0,0,0,0,1,0,1,0,0,1,0,1
+kot balijski,0,1,0,1,0,0,0,0,1,0,0,0,1,1
+king charles spaniel,0,0,0,0,1,1,0,1,0,0,0,0,1,0
+charcik włoski,0,0,0,1,1,0,0,1,0,0,1,0,0,0
+chart afgański,1,1,0,0,1,0,0,0,0,1,0,0,1,0
+chart afrykański,0,0,0,0,1,0,0,0,1,0,1,0,0,0
+chart arabski,0,0,1,0,1,0,0,0,0,1,1,0,0,0
+char hiszpański,0,0,1,0,1,1,0,0,0,1,0,1,0,0
+chart perski,0,0,0,0,1,0,0,0,1,0,1,0,0,0
+chart perski,0,0,0,0,1,0,0,0,1,0,0,0,1,0
+chart polski,0,0,1,0,1,0,0,0,0,1,0,1,0,0
+chart rosyjski borzoj,0,0,0,1,1,0,0,0,0,1,0,0,1,0
+chart szkocki,0,0,1,0,1,0,0,0,0,1,0,0,1,0
+chesapeake bay retriever,0,0,0,0,1,0,0,0,1,0,0,1,0,0
+chihuahua,1,0,0,1,1,0,0,1,0,0,0,1,0,0
+chihuahua,1,0,0,1,1,0,0,1,0,0,0,0,1,0
+chin japoński,1,1,1,0,1,1,0,1,0,0,0,0,1,0
+kot bengalski,0,0,0,0,0,1,1,0,1,0,0,1,0,1
+kot bombajski,0,0,1,0,0,0,0,0,1,0,0,1,0,1
+kot burmański,0,0,0,0,0,0,0,0,1,0,0,1,0,1
+kot cejloński,0,0,0,0,0,0,1,0,1,0,0,1,0,1
+kot dachowiec,0,0,1,0,0,1,0,0,1,0,0,1,0,1
+kot egipski mau,0,0,0,1,0,1,1,0,1,0,0,1,0,1
+chow chow,1,1,1,0,1,0,0,0,1,0,0,1,0,0
+chow chow,1,1,1,0,1,0,0,0,1,0,0,0,1,0
+cirneco delletna,0,0,0,1,1,0,0,0,1,0,0,1,0,0
+clumber spaniel,0,1,0,0,1,1,0,0,1,0,0,0,1,0
+cocker spaniel amer,0,0,0,0,1,0,0,0,1,0,0,0,1,0
+cocker spaniel ang,0,0,0,0,1,0,0,0,1,0,0,0,1,0
+coton de tulear,1,1,1,0,1,0,0,1,0,0,0,0,1,0
+curly coated retriever,0,0,1,0,1,0,0,0,1,0,0,1,0,0
+czeski fousek,0,1,0,0,1,1,0,0,1,0,0,0,1,0
+czuwacz słowacki,0,1,0,0,1,0,0,0,0,1,0,0,1,0
+dalmatyczńczyk,0,0,0,0,1,1,0,0,1,0,0,1,0,0
+dandie dinmont terrier,1,1,1,0,1,0,0,1,0,0,0,0,1,0
+doberman,0,0,0,0,1,0,0,0,0,1,1,0,0,0
+doberman,0,0,0,0,1,0,0,0,0,1,0,1,0,0
+dog argentyński,0,0,0,0,1,0,0,0,0,1,0,1,0,0
+dog kanaryjski,0,0,0,0,1,0,0,0,0,1,0,1,0,0
+dog niemiecki,0,0,0,1,1,1,0,0,0,0,1,0,0,0
+kot egzotyczny,0,1,1,0,0,0,1,0,1,0,0,1,0,1
+german rex,0,0,1,1,0,0,0,0,1,0,0,1,0,1
+hawański ,0,0,0,0,0,0,0,0,1,0,0,1,0,1
+kot himalański,0,1,1,1,0,0,0,0,1,0,0,0,1,1
+kot jawajski,0,1,0,1,0,0,0,0,1,0,0,0,1,1
+dog z majorki,0,0,1,1,1,0,0,0,1,0,0,1,0,0
+dogue de bordeaux,0,0,0,0,1,0,0,0,0,1,0,1,0,0
+drentse patrijshond,0,1,0,0,1,1,0,0,1,0,0,0,1,0
+drever,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+duży gończy ang-fr,0,0,0,0,1,1,0,0,0,1,0,1,0,0
+duży muensterlaender,0,1,0,0,1,1,0,0,0,1,0,0,1,0
+duży szwaj pies pasterski,0,0,0,0,1,0,0,0,0,1,0,1,0,0
+duży szwaj pies pasterski,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+elkhund szary,0,1,1,1,1,0,0,0,1,0,0,0,1,0
+entlebucher,0,0,0,0,1,0,0,0,1,0,0,1,0,0
+eurasier,1,1,1,0,1,0,0,0,1,0,0,1,0,0
+eurasier,1,1,1,0,1,0,0,0,1,0,0,0,1,0
+field spaniel,1,1,0,0,1,0,0,0,1,0,0,0,1,0
+fila brasileiro,0,0,0,0,1,0,1,0,0,1,0,1,0,0
+fiński lapphund,0,1,0,1,1,0,0,0,1,0,0,0,1,0
+flat coated retriever,1,1,0,0,1,0,0,0,1,0,0,0,1,0
+foksterrier,1,0,1,1,1,1,0,1,0,0,0,1,0,0
+foxhound amerykański,1,0,0,0,1,1,0,0,0,1,0,0,1,0
+kot kalifornijski spangled,0,0,0,1,0,0,1,0,1,0,0,1,0,1
+kot orintalny krotkowło,0,0,0,0,0,0,0,0,1,0,0,1,0,1
+kot orintalny krotkowło,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+kot perski,0,1,1,1,0,0,0,0,1,0,0,0,1,1
+kot perski szynszylowy,0,1,1,1,0,0,0,1,0,0,0,0,1,1
+kot rosyjski niebieski,0,0,0,1,0,0,0,0,1,0,0,1,0,1
+fryzyjski pies dowodny,1,1,0,0,1,1,0,0,1,0,0,0,1,0
+golden retriever,0,1,0,0,1,0,0,0,1,0,0,0,1,0
+gończy bośniacki,0,1,0,0,1,0,0,0,1,0,0,0,1,0
+gończy fr cz-bia,0,0,0,0,1,1,0,0,0,1,1,0,0,0
+gończy fr trojkol,0,0,0,0,1,1,0,0,0,1,1,0,0,0
+gończy gaskoński,0,0,0,0,1,1,0,0,0,1,0,1,0,0
+gończy grecki,0,0,0,0,1,0,0,0,1,0,1,0,0,0
+gończy istryjski szorstkowło,1,0,0,0,1,1,0,0,1,0,0,1,0,0
+gończy polski,0,0,0,0,1,0,0,0,1,0,0,1,0,0
+gończy słowacki,1,0,0,0,1,0,0,0,1,0,0,1,0,0
+gończy szwajcarski,0,0,0,0,1,0,0,0,1,0,0,1,0,0
+gończy szwaj krótkonożny,0,0,0,0,1,1,0,0,1,0,0,1,0,0
+gończy tyrolski,0,1,0,0,1,0,0,0,1,0,0,1,0,0
+gończy z nivernais,0,0,0,0,1,0,0,0,1,0,0,0,1,0
+grand basset griffon,0,1,0,0,1,1,0,0,1,0,0,1,0,0
+greyhound,0,0,0,0,1,1,0,0,0,1,0,1,0,0
+gryfon korthalsa,1,0,0,0,1,1,0,0,1,0,0,0,1,0
+gryfonik brukselski,1,0,1,0,1,0,0,1,0,0,0,1,0,0
+gryfonik brukselski,1,0,1,0,1,0,0,1,0,0,0,0,1,0
+grzywacz chiński,1,1,0,0,1,0,0,1,0,0,0,0,0,0
+kot syberyjski,0,1,1,1,0,0,1,0,1,0,0,0,1,1
+kot somalijski,0,1,0,1,0,0,0,0,1,0,0,0,1,1
+kot syjamski,0,0,0,1,0,1,0,0,1,0,0,1,0,1
+kot szkocki zwisłouchy,0,1,1,1,0,0,0,0,1,0,0,1,0,1
+kot tonkijski,0,0,0,0,0,1,0,0,1,0,0,1,0,1
+kot tonkijski,0,0,0,0,0,1,0,0,1,0,0,0,1,1
+laperm,0,1,0,1,0,0,0,0,1,0,0,1,0,1
+laperm,0,1,0,1,0,0,0,0,1,0,0,0,1,1
+maine coon,0,1,0,1,0,0,1,0,0,1,0,0,1,1
+manx,1,0,0,1,0,0,1,0,1,0,0,1,0,1
+munchkin,0,0,1,1,0,0,1,0,1,0,0,0,1,1
+munchkin,0,0,1,1,0,0,1,0,1,0,0,1,0,1
+nebelung,0,1,0,1,0,0,0,0,1,0,0,0,1,1
+norweski leśny,0,1,1,1,0,0,1,0,1,0,0,0,1,1
+ocicat,0,0,0,1,0,1,1,0,1,0,0,1,0,1
+peterbald,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+peterbald,0,0,0,1,0,0,0,0,1,0,0,1,0,1
+sfinks kanadyjski,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+harrier,0,0,0,0,1,1,0,0,1,0,0,1,0,0
+hawańczyk,1,1,1,0,1,0,0,1,0,0,0,0,1,1
+hiszpański pies dowodny,1,1,0,0,1,0,0,0,1,0,0,1,0,0
+hokkaido,1,1,1,1,1,0,0,0,1,0,0,1,0,0
+hollandse smoishond,1,0,1,0,1,0,0,1,0,0,0,0,1,0
+hovawart,0,1,0,0,1,0,0,0,0,1,0,0,1,0
+husky,0,1,1,1,0,1,0,0,1,0,0,0,1,0
+labrador,0,0,0,0,1,0,0,0,1,0,0,1,0,0
+leonberger,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+mudi,1,1,0,1,1,1,0,0,1,0,0,1,0,0
+nagi pies meksykański,0,0,0,1,1,0,0,0,1,0,0,0,0,0
+nagi pies meksykański,0,0,0,1,1,0,0,0,1,0,1,0,0,0
+nagi pies meksykański,0,0,0,1,1,0,0,0,1,0,0,1,0,0
+nowofundland,0,1,0,0,1,1,0,0,0,1,0,0,1,0
+owczarek australijski,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+owczarek kaukaski,0,1,0,0,1,0,0,0,0,1,0,0,1,0
+owczarek kaukaski,0,1,0,0,1,0,0,0,0,1,0,1,0,0
+pekińczyk,1,1,0,0,1,0,0,1,0,0,0,0,1,0
+pointer,0,0,0,0,1,1,0,0,1,0,1,0,0,0
+corgi,1,0,0,0,1,0,0,1,0,0,0,0,1,0
+islandzki szpic pasterski,0,1,1,1,1,1,0,0,1,0,0,1,0,0
+jamnik,1,0,0,0,1,0,0,1,0,0,1,0,0,0
+jamthund,0,1,1,1,1,0,0,0,0,1,0,0,1,0
+pixie bob,1,1,1,0,0,0,1,0,1,0,0,0,1,1
+ragamuffin,0,1,1,1,0,0,1,1,0,0,0,0,1,1
+ragdoll,0,1,1,1,0,0,0,0,1,0,0,0,1,1
+savannah,0,0,0,0,0,1,1,0,1,0,0,1,0,1
+selkirk rex,1,1,1,1,0,0,0,0,1,0,0,0,1,1
+kot singapurski,0,0,0,0,0,0,0,0,1,0,0,1,0,1
+snowshoe,0,0,0,1,0,0,0,0,1,0,0,1,0,1
+sokoke,0,0,0,0,0,0,1,0,1,0,0,1,0,1
+kot birmański,0,1,1,1,0,1,0,0,1,0,0,0,1,1
+tajski,0,0,0,1,0,1,0,0,1,0,0,1,0,1
+tiffanie,0,1,1,1,0,0,0,0,1,0,0,0,1,1
+toyger,0,0,0,0,0,0,1,0,1,0,0,1,0,1
+turecki van,0,1,0,1,0,1,0,0,1,0,0,0,1,1
